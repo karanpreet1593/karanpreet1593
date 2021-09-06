@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karanpreet Singh
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Learning more
+- 🌱 I’m currently trying to master React
 - 💞️ I’m looking to collaborate on React projects
 - 📫 Reach me at karanpreet1593@gmail.com
 
